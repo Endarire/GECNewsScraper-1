@@ -4,7 +4,7 @@ This program obtains article headlines and links directly from news.google.com a
 This project was done over the course of about 2 weeks.
 
 Heroku Link:
-https://dashboard.heroku.com/apps/gec-newsscraper
+https://gec-newsscraper.herokuapp.com/
 
 YouTube Demo Video:
 https://www.youtube.com/watch?v=L8M0fHqku6A
